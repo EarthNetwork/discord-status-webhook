@@ -1,0 +1,12 @@
+{
+    "name": "discord-webhook",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "author": {
+        "name": "GeekCorner"
+    },
+    "dependencies": {
+         "node-fetch": "latest",
+    }
+}
